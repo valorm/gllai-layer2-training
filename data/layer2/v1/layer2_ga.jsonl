@@ -1,0 +1,102 @@
+[
+  {
+    "language": "ga",
+    "text": "Charlie",
+    "conversation_feature": "discourse_marker",
+    "context": "short_clip",
+    "start_timestamp": "00:00:03.500",
+    "end_timestamp": "00:00:04.200",
+    "speaker": "host",
+    "confidence": 1.0
+  },
+  {
+    "language": "ga",
+    "text": "Hɛɛ",
+    "conversation_feature": "backchannel",
+    "context": "short_clip",
+    "start_timestamp": "00:00:43.100",
+    "end_timestamp": "00:00:43.900",
+    "speaker": "guest",
+    "confidence": 0.95
+  },
+  {
+    "language": "ga",
+    "text": "Abaaaa!",
+    "conversation_feature": "emphasis",
+    "context": "short_clip",
+    "start_timestamp": "00:01:21.000",
+    "end_timestamp": "00:01:22.500",
+    "speaker": "guest",
+    "confidence": 1.0
+  },
+  {
+    "language": "ga",
+    "text": "Ojogbaŋŋ",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:01:05.300",
+    "end_timestamp": "00:01:06.800",
+    "speaker": "host",
+    "confidence": 0.98
+  },
+  {
+    "language": "ga",
+    "text": "Eeeh...",
+    "conversation_feature": "hesitation_uncertainty",
+    "context": "interview",
+    "start_timestamp": "00:02:29.000",
+    "end_timestamp": "00:02:30.400",
+    "speaker": "guest",
+    "confidence": 0.9
+  },
+  {
+    "language": "ga",
+    "text": "Dabi... dabi",
+    "conversation_feature": "conversation_repair",
+    "context": "interview",
+    "start_timestamp": "00:03:52.000",
+    "end_timestamp": "00:03:53.600",
+    "speaker": "guest",
+    "confidence": 0.95
+  },
+  {
+    "language": "ga",
+    "text": "Yo",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "start_timestamp": "00:01:23.500",
+    "end_timestamp": "00:01:24.200",
+    "speaker": "host",
+    "confidence": 1.0
+  },
+  {
+    "language": "ga",
+    "text": "Hɛɛ",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:05:44.000",
+    "end_timestamp": "00:05:44.800",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ga",
+    "text": "Mɛni?",
+    "conversation_feature": "clarification_request",
+    "context": "interview",
+    "start_timestamp": "00:07:23.000",
+    "end_timestamp": "00:07:24.100",
+    "speaker": "host",
+    "confidence": 0.9
+  },
+  {
+    "language": "ga",
+    "text": "Amen",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "start_timestamp": "00:08:05.000",
+    "end_timestamp": "00:08:06.300",
+    "speaker": "guest",
+    "confidence": 1.0
+  }
+]

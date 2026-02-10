@@ -1,0 +1,419 @@
+[
+  {
+    "language": "ewe",
+    "text": "Yo, yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:00:23.300",
+    "end_timestamp": "00:00:24.400",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Amen",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "start_timestamp": "00:00:44.800",
+    "end_timestamp": "00:00:45.700",
+    "speaker": "guest",
+    "confidence": 0.85
+  },
+  {
+    "language": "ewe",
+    "text": "Yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:01:04.200",
+    "end_timestamp": "00:01:05.100",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Eeeh",
+    "conversation_feature": "hesitation_uncertainty",
+    "context": "interview",
+    "start_timestamp": "00:01:52.000",
+    "end_timestamp": "00:01:53.300",
+    "speaker": "guest",
+    "confidence": 0.9
+  },
+  {
+    "language": "ewe",
+    "text": "Yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:01:43.500",
+    "end_timestamp": "00:01:44.200",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:02:35.800",
+    "end_timestamp": "00:02:36.400",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Mhm",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:02:49.200",
+    "end_timestamp": "00:02:50.000",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Eeh",
+    "conversation_feature": "hesitation_uncertainty",
+    "context": "interview",
+    "start_timestamp": "00:05:58.500",
+    "end_timestamp": "00:05:59.600",
+    "speaker": "guest",
+    "confidence": 0.9
+  },
+  {
+    "language": "ewe",
+    "text": "Mhm",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:06:27.500",
+    "end_timestamp": "00:06:28.200",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:08:33.500",
+    "end_timestamp": "00:08:34.200",
+    "speaker": "host",
+    "confidence": 0.95
+  }
+]
+[
+  {
+    "language": "ewe",
+    "text": "Yo, yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "video_id": "BXN1QyOPasM",
+    "start_timestamp": "00:00:23.300",
+    "end_timestamp": "00:00:24.400",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Amen",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "video_id": "BXN1QyOPasM",
+    "start_timestamp": "00:00:44.800",
+    "end_timestamp": "00:00:45.700",
+    "speaker": "guest",
+    "confidence": 0.85
+  },
+  {
+    "language": "ewe",
+    "text": "Yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "video_id": "BXN1QyOPasM",
+    "start_timestamp": "00:01:04.200",
+    "end_timestamp": "00:01:05.100",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Eeeh",
+    "conversation_feature": "hesitation_uncertainty",
+    "context": "interview",
+    "video_id": "BXN1QyOPasM",
+    "start_timestamp": "00:01:52.000",
+    "end_timestamp": "00:01:53.300",
+    "speaker": "guest",
+    "confidence": 0.9
+  },
+  {
+    "language": "ewe",
+    "text": "Mhm",
+    "conversation_feature": "backchannel",
+    "context": "tv_show",
+    "video_id": "U9jq1XpVt7c",
+    "start_timestamp": "00:01:07.100",
+    "end_timestamp": "00:01:07.800",
+    "speaker": "other",
+    "confidence": 0.9
+  },
+  {
+    "language": "ewe",
+    "text": "Eeeh",
+    "conversation_feature": "hesitation_uncertainty",
+    "context": "tv_show",
+    "video_id": "U9jq1XpVt7c",
+    "start_timestamp": "00:02:44.200",
+    "end_timestamp": "00:02:45.500",
+    "speaker": "other",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Eeh",
+    "conversation_feature": "backchannel",
+    "context": "dialogue",
+    "video_id": "4iJZ5xMgejw",
+    "start_timestamp": "00:00:24.400",
+    "end_timestamp": "00:00:25.100",
+    "speaker": "host",
+    "confidence": 0.98
+  },
+  {
+    "language": "ewe",
+    "text": "Mhm",
+    "conversation_feature": "backchannel",
+    "context": "dialogue",
+    "video_id": "4iJZ5xMgejw",
+    "start_timestamp": "00:00:36.500",
+    "end_timestamp": "00:00:37.200",
+    "speaker": "host",
+    "confidence": 0.98
+  },
+  {
+    "language": "ewe",
+    "text": "Eeeh",
+    "conversation_feature": "turn_taking",
+    "context": "dialogue",
+    "video_id": "97wLryAhuII",
+    "start_timestamp": "00:01:03.100",
+    "end_timestamp": "00:01:04.200",
+    "speaker": "host",
+    "confidence": 0.95
+  }
+]
+
+[
+  {
+    "language": "ga",
+    "text": "Charlie",
+    "conversation_feature": "discourse_marker",
+    "context": "short_clip",
+    "video_id": "fnWIkxCPTLo",
+    "start_timestamp": "00:00:03.500",
+    "end_timestamp": "00:00:04.200",
+    "speaker": "host",
+    "confidence": 1.0
+  },
+  {
+    "language": "ga",
+    "text": "Hɛɛ",
+    "conversation_feature": "backchannel",
+    "context": "short_clip",
+    "video_id": "fnWIkxCPTLo",
+    "start_timestamp": "00:00:43.100",
+    "end_timestamp": "00:00:43.900",
+    "speaker": "guest",
+    "confidence": 0.95
+  },
+  {
+    "language": "ga",
+    "text": "Abaaaa!",
+    "conversation_feature": "emphasis",
+    "context": "short_clip",
+    "video_id": "fnWIkxCPTLo",
+    "start_timestamp": "00:01:21.000",
+    "end_timestamp": "00:01:22.500",
+    "speaker": "guest",
+    "confidence": 1.0
+  },
+  {
+    "language": "ga",
+    "text": "Ojogbaŋŋ",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "video_id": "2q7rxMGgD4M",
+    "start_timestamp": "00:01:05.300",
+    "end_timestamp": "00:01:06.800",
+    "speaker": "host",
+    "confidence": 0.98
+  },
+  {
+    "language": "ga",
+    "text": "Eeeh...",
+    "conversation_feature": "hesitation_uncertainty",
+    "context": "interview",
+    "video_id": "2q7rxMGgD4M",
+    "start_timestamp": "00:02:29.000",
+    "end_timestamp": "00:02:30.400",
+    "speaker": "guest",
+    "confidence": 0.9
+  },
+  {
+    "language": "ga",
+    "text": "Dabi... dabi",
+    "conversation_feature": "conversation_repair",
+    "context": "interview",
+    "video_id": "2q7rxMGgD4M",
+    "start_timestamp": "00:03:52.000",
+    "end_timestamp": "00:03:53.600",
+    "speaker": "guest",
+    "confidence": 0.95
+  },
+  {
+    "language": "ga",
+    "text": "Yo",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "video_id": "B8OorxWnlaI",
+    "start_timestamp": "00:01:23.500",
+    "end_timestamp": "00:01:24.200",
+    "speaker": "host",
+    "confidence": 1.0
+  },
+  {
+    "language": "ga",
+    "text": "Hɛɛ",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "video_id": "B8OorxWnlaI",
+    "start_timestamp": "00:05:44.000",
+    "end_timestamp": "00:05:44.800",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ga",
+    "text": "Mɛni?",
+    "conversation_feature": "clarification_request",
+    "context": "interview",
+    "video_id": "B8OorxWnlaI",
+    "start_timestamp": "00:07:23.000",
+    "end_timestamp": "00:07:24.100",
+    "speaker": "host",
+    "confidence": 0.9
+  },
+  {
+    "language": "ga",
+    "text": "Amen",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "video_id": "B8OorxWnlaI",
+    "start_timestamp": "00:08:05.000",
+    "end_timestamp": "00:08:06.300",
+    "speaker": "guest",
+    "confidence": 1.0
+  }
+]
+
+[
+  {
+    "language": "twi",
+    "text": "Shepɛ shepɛ shepɛ shepɛ",
+    "conversation_feature": "emphasis",
+    "context": "tv_show",
+    "start_timestamp": "00:00:53.150",
+    "end_timestamp": "00:00:54.800",
+    "speaker": "host",
+    "confidence": 1.0
+  },
+  {
+    "language": "twi",
+    "text": "Eh bam!",
+    "conversation_feature": "humor",
+    "context": "interview",
+    "start_timestamp": "00:06:35.500",
+    "end_timestamp": "00:06:36.700",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "twi",
+    "text": "Remmaseɛ kutuo!",
+    "conversation_feature": "humor",
+    "context": "interview",
+    "start_timestamp": "00:06:33.200",
+    "end_timestamp": "00:06:35.100",
+    "speaker": "guest",
+    "confidence": 0.9
+  },
+  {
+    "language": "twi",
+    "text": "Mm",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:07:05.800",
+    "end_timestamp": "00:07:06.400",
+    "speaker": "host",
+    "confidence": 1.0
+  },
+  {
+    "language": "twi",
+    "text": "Enti",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "start_timestamp": "00:07:15.200",
+    "end_timestamp": "00:07:16.000",
+    "speaker": "host",
+    "confidence": 1.0
+  },
+  {
+    "language": "twi",
+    "text": "Wahu moaden no?",
+    "conversation_feature": "refusal_redirect",
+    "context": "interview",
+    "start_timestamp": "00:10:02.100",
+    "end_timestamp": "00:10:04.200",
+    "speaker": "guest",
+    "confidence": 0.85
+  },
+  {
+    "language": "twi",
+    "text": "Aane",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:15:53.400",
+    "end_timestamp": "00:15:54.100",
+    "speaker": "host",
+    "confidence": 1.0
+  },
+  {
+    "language": "twi",
+    "text": "Na",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "start_timestamp": "00:16:38.250",
+    "end_timestamp": "00:16:39.100",
+    "speaker": "guest",
+    "confidence": 1.0
+  },
+  {
+    "language": "twi",
+    "text": "Ɛyɛ",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "start_timestamp": "00:17:15.500",
+    "end_timestamp": "00:17:16.300",
+    "speaker": "guest",
+    "confidence": 0.95
+  },
+  {
+    "language": "twi",
+    "text": "Sɛ",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "start_timestamp": "00:17:38.100",
+    "end_timestamp": "00:17:38.900",
+    "speaker": "guest",
+    "confidence": 1.0
+  }
+]

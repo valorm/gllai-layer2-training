@@ -1,0 +1,203 @@
+[
+  {
+    "language": "ewe",
+    "text": "Yo, yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:00:23.300",
+    "end_timestamp": "00:00:24.400",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Amen",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "start_timestamp": "00:00:44.800",
+    "end_timestamp": "00:00:45.700",
+    "speaker": "guest",
+    "confidence": 0.85
+  },
+  {
+    "language": "ewe",
+    "text": "Yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:01:04.200",
+    "end_timestamp": "00:01:05.100",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Eeeh",
+    "conversation_feature": "hesitation_uncertainty",
+    "context": "interview",
+    "start_timestamp": "00:01:52.000",
+    "end_timestamp": "00:01:53.300",
+    "speaker": "guest",
+    "confidence": 0.9
+  },
+  {
+    "language": "ewe",
+    "text": "Yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:01:43.500",
+    "end_timestamp": "00:01:44.200",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:02:35.800",
+    "end_timestamp": "00:02:36.400",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Mhm",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:02:49.200",
+    "end_timestamp": "00:02:50.000",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Eeh",
+    "conversation_feature": "hesitation_uncertainty",
+    "context": "interview",
+    "start_timestamp": "00:05:58.500",
+    "end_timestamp": "00:05:59.600",
+    "speaker": "guest",
+    "confidence": 0.9
+  },
+  {
+    "language": "ewe",
+    "text": "Mhm",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:06:27.500",
+    "end_timestamp": "00:06:28.200",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "start_timestamp": "00:08:33.500",
+    "end_timestamp": "00:08:34.200",
+    "speaker": "host",
+    "confidence": 0.95
+  }
+]
+[
+  {
+    "language": "ewe",
+    "text": "Yo, yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "video_id": "BXN1QyOPasM",
+    "start_timestamp": "00:00:23.300",
+    "end_timestamp": "00:00:24.400",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Amen",
+    "conversation_feature": "discourse_marker",
+    "context": "interview",
+    "video_id": "BXN1QyOPasM",
+    "start_timestamp": "00:00:44.800",
+    "end_timestamp": "00:00:45.700",
+    "speaker": "guest",
+    "confidence": 0.85
+  },
+  {
+    "language": "ewe",
+    "text": "Yo",
+    "conversation_feature": "backchannel",
+    "context": "interview",
+    "video_id": "BXN1QyOPasM",
+    "start_timestamp": "00:01:04.200",
+    "end_timestamp": "00:01:05.100",
+    "speaker": "host",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Eeeh",
+    "conversation_feature": "hesitation_uncertainty",
+    "context": "interview",
+    "video_id": "BXN1QyOPasM",
+    "start_timestamp": "00:01:52.000",
+    "end_timestamp": "00:01:53.300",
+    "speaker": "guest",
+    "confidence": 0.9
+  },
+  {
+    "language": "ewe",
+    "text": "Mhm",
+    "conversation_feature": "backchannel",
+    "context": "tv_show",
+    "video_id": "U9jq1XpVt7c",
+    "start_timestamp": "00:01:07.100",
+    "end_timestamp": "00:01:07.800",
+    "speaker": "other",
+    "confidence": 0.9
+  },
+  {
+    "language": "ewe",
+    "text": "Eeeh",
+    "conversation_feature": "hesitation_uncertainty",
+    "context": "tv_show",
+    "video_id": "U9jq1XpVt7c",
+    "start_timestamp": "00:02:44.200",
+    "end_timestamp": "00:02:45.500",
+    "speaker": "other",
+    "confidence": 0.95
+  },
+  {
+    "language": "ewe",
+    "text": "Eeh",
+    "conversation_feature": "backchannel",
+    "context": "dialogue",
+    "video_id": "4iJZ5xMgejw",
+    "start_timestamp": "00:00:24.400",
+    "end_timestamp": "00:00:25.100",
+    "speaker": "host",
+    "confidence": 0.98
+  },
+  {
+    "language": "ewe",
+    "text": "Mhm",
+    "conversation_feature": "backchannel",
+    "context": "dialogue",
+    "video_id": "4iJZ5xMgejw",
+    "start_timestamp": "00:00:36.500",
+    "end_timestamp": "00:00:37.200",
+    "speaker": "host",
+    "confidence": 0.98
+  },
+  {
+    "language": "ewe",
+    "text": "Eeeh",
+    "conversation_feature": "turn_taking",
+    "context": "dialogue",
+    "video_id": "97wLryAhuII",
+    "start_timestamp": "00:01:03.100",
+    "end_timestamp": "00:01:04.200",
+    "speaker": "host",
+    "confidence": 0.95
+  }
+]

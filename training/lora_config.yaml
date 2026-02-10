@@ -1,0 +1,11 @@
+layer: layer2
+training_type: lora
+objective: conversational_style
+
+data:
+  path: ../data/layer2/v1/
+  read_only: true
+
+constraints:
+  forbid_authority: true
+  forbid_translation: true
